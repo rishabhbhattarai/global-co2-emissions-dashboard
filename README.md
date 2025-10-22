@@ -36,7 +36,7 @@ Built as part of Maven Environmental’s mission to promote data-driven climate 
 - Balancing storytelling with interactivity for public dashboards.
 
 ### 📎 View the Dashboard
-[🔗 Tableau Public Link](#) *([add your published link here](https://public.tableau.com/shared/SN3CDRX8G?:display_count=n&:origin=viz_share_link))*
+[🔗 **Tableau Public Link**](https://public.tableau.com/shared/SN3CDRX8G?:display_count=n&:origin=viz_share_link)
 
 ---
 
